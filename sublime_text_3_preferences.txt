@@ -1,0 +1,25 @@
+{
+  // "foo"、"bar"、全角空白、全角英数字を常にハイライトする
+  "alwayshighlight_pattern": "[　０-９Ａ-Ｚａ-ｚ]",
+  "draw_white_space": "all",
+  
+  // セーブしていないファイルの可視化
+  "ensure_newline_at_eof_on_save": true,
+  "font_size": 13.0,
+  "fullwhitespace_viewable": true,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  // インデントのガイド
+  "indent_guide_options":
+  [
+    "draw_active",
+    "draw_normal"
+  ],
+  // タブ
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true
+}
